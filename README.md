@@ -1,6 +1,6 @@
 <div aling="center">
 
-[![Identificação](https://img.shields.io/badge/projeto%20escolar-000000?style=for-the-badge&color=%23FF82AB)
+![Identificação](https://img.shields.io/badge/projeto%20escolar-000000?style=for-the-badge&color=%23FF82AB)
 
 </div>
 # Projeto para pesquisa de satisfação
@@ -16,3 +16,7 @@ Este projeto tem como objetivo repetir uma pesquisa de satisfação e retornar q
  <img align="center" alt="Python" height="80" width="80"
   src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
 </div>
+
+## Teste
+Imagem do teste foi com 10 clientes
+<img aling="right" height="125" src="https://imgur.com/gallery/teste-1-xmD1aYB#prkq1Z6"  />
