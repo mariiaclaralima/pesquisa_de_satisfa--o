@@ -21,4 +21,4 @@ Este projeto tem como objetivo repetir uma pesquisa de satisfação e retornar q
 ## Teste
 Imagem do teste foi com 10 clientes
 
-<img aling="right" height="300" src="https://imgur.com/gallery/teste-1-xmD1aYB#prkq1Z6.png"  />
+<img aling="right" height="300" src="https://i.imgur.com/prkq1Z6.png"  />
